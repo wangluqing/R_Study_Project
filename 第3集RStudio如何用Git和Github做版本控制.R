@@ -1,7 +1,10 @@
 ####################################
-#RStudio通过git和Github做版本控制
+#R语言基础知识篇
+#R语言学习第3集
+#RStudio如何用git和Github做版本控制？
 ####################################
 
+# 包括三个步骤
 # 第一步：配置Git，通过ssh连接Github
 # 1 打开Git bash
 # 2 配置注册Github时候的用户名和邮箱
@@ -26,3 +29,5 @@
 # git commit -m "R Study"
 # git remote add origin "项目的ssh访问链接"
 # git push -u origin master
+
+
