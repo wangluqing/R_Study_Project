@@ -7,7 +7,7 @@
 # 包括3个内容
 
 # 1 为什么要认识R包？
-# 实际工作中，我每天都要用到R包，使用R包，可以提供工作效率
+# 实际工作中，我每天都要用到R包，使用R包，可以提升工作效率
 # R包可以让你站在巨人的肩膀上学习和应用R语言
 # R包涵盖各种领域、场景和环节，我在第3点的实际工作里面介绍了一系列R包
 
@@ -21,7 +21,7 @@
 # 3 我实际工作常用的R包
 
 # 第一种方式：加载工作所需的R包
-# 1 数据导入R包
+# 1 数据导入和导出R包
 library(RODBC)
 library(readr)
 library(readxl)
@@ -37,7 +37,7 @@ library(data.table)
 library(ggplot2)
 library(ggthemes)
 library(patchwork)
-# 5 函数实编程包
+# 5 函数式编程包
 library(purrr)
 # 6 数据建模包
 library(caret)
